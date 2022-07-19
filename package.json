@@ -1,0 +1,15 @@
+{
+  "name": "js_n_2",
+  "version": "1.0.0",
+  "description": "Example usage module moment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git repository": "https://github.com/Vognev2017/EEF_project_JS_N_1",
+  "author": "henadiyv@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
